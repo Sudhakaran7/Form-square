@@ -1,0 +1,47 @@
+Given a rectangle of size n x m, find the minimum number of integer-sided squares that tile the rectangle.
+For example, Consider this example, n=2, m=3,
+
+Input Description:
+n and m of the rectangle.(1<n,m<100)
+
+Output Description:
+Print the minimum number of integer-sided squares that tile the rectangle.
+
+Sample Input:
+2 3
+
+Sample Output:
+3
+
+Explanation:
+Consider the example in question for explanation.
+
+Sample Input:
+5 6
+
+Sample Output:
+5
+
+Sample Input:
+12 20
+
+Sample Output:
+4
+
+Sample Input:
+8 9
+
+Sample Output:
+7
+
+Sample Input:
+10 15
+
+Sample Output:
+3
+
+Sample Input:
+14 14
+
+Sample Output:
+1
